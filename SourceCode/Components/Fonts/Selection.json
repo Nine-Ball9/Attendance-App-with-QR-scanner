@@ -1,0 +1,40 @@
+{
+    "name": "",
+    "css_prefix_text": "icon-",
+    "css_use_suffix": false,
+    "hinting": true,
+    "units_per_em": 1000,
+    "ascent": 850,
+    "glyphs": [
+      {
+        "uid": "d58dc0a0927a7dea2992f615f2fbf400",
+        "css": "wallet",
+        "code": 59393,
+        "src": "linecons"
+      },
+      {
+        "uid": "f279f25007794fa6837ff78fe94b216e",
+        "css": "money",
+        "code": 61654,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "0ohst63cgq1mf1syayvfl8mphms8dbes",
+        "css": "clock",
+        "code": 59392,
+        "src": "modernpics"
+      },
+      {
+        "uid": "ee22dc89481ea63f27654f59dcace804",
+        "css": "clock-1",
+        "code": 59394,
+        "src": "linecons"
+      },
+      {
+        "uid": "501f33ed61da407feb057a7699ef93f7",
+        "css": "clock-2",
+        "code": 59395,
+        "src": "websymbols"
+      }
+    ]
+  }
